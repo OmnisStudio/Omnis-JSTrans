@@ -1,5 +1,6 @@
 # Omnis-JSTrans
-Library demonstrates the use of trans buttons
+Library demonstrates the use of trans buttons.
+
 The app can be viewed here http://tinyurl.com/jsgallery8, click on 'Trans Button' in the list.
 
 Requires Omnis Studio 8.1.2 or above

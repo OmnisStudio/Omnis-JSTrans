@@ -1,0 +1,154 @@
+{
+	"classtype": "kSystemtable",
+	"internalversion": 3,
+	"iconversion": 6,
+	"nextident": 6,
+	"properties": {
+		"componenttype": "kCompStoreHidden",
+		"createdate": "2017-01-10 10:48:44",
+		"desc": "",
+		"external": false,
+		"moddate": "2013-10-03 11:55:15",
+		"showascheckedout": false,
+		"userinfo": "",
+		"version": "1"
+	},
+	"iconids": [
+		{
+			"iconid": 111200,
+			"pageid": 1,
+			"iconpos": 1,
+			"defaultsize": 1,
+			"flags": 0
+		},
+		{
+			"iconid": 111201,
+			"pageid": 2,
+			"iconpos": 1,
+			"defaultsize": 1,
+			"flags": 0
+		},
+		{
+			"iconid": 111202,
+			"pageid": 3,
+			"iconpos": 1,
+			"defaultsize": 1,
+			"flags": 0
+		},
+		{
+			"iconid": 111203,
+			"pageid": 4,
+			"iconpos": 1,
+			"defaultsize": 1,
+			"flags": 0
+		},
+		{
+			"iconid": 111204,
+			"pageid": 5,
+			"iconpos": 1,
+			"defaultsize": 1,
+			"flags": 0
+		},
+		{
+			"iconid": 111205,
+			"pageid": 6,
+			"iconpos": 1,
+			"defaultsize": 1,
+			"flags": 0
+		}
+	],
+	"pages": [
+		{
+			"pageid": 1,
+			"name": "Trans1a",
+			"bitmapid": 1,
+			"flags": 1888
+		},
+		{
+			"pageid": 2,
+			"name": "Trans1b",
+			"bitmapid": 2,
+			"flags": 1888
+		},
+		{
+			"pageid": 3,
+			"name": "Trans2a",
+			"bitmapid": 3,
+			"flags": 1888
+		},
+		{
+			"pageid": 4,
+			"name": "Trans2b",
+			"bitmapid": 4,
+			"flags": 1888
+		},
+		{
+			"pageid": 5,
+			"name": "Trans3a",
+			"bitmapid": 5,
+			"flags": 1888
+		},
+		{
+			"pageid": 6,
+			"name": "Trans3b",
+			"bitmapid": 6,
+			"flags": 1888
+		}
+	],
+	"bitmaps": [
+		{
+			"bitmapid": 1,
+			"solid": {
+				"$png": "solid1.png"
+			},
+			"alpha": {
+				"$png": "alpha1.png"
+			}
+		},
+		{
+			"bitmapid": 2,
+			"solid": {
+				"$png": "solid2.png"
+			},
+			"alpha": {
+				"$png": "alpha2.png"
+			}
+		},
+		{
+			"bitmapid": 3,
+			"solid": {
+				"$png": "solid3.png"
+			},
+			"alpha": {
+				"$png": "alpha3.png"
+			}
+		},
+		{
+			"bitmapid": 4,
+			"solid": {
+				"$png": "solid4.png"
+			},
+			"alpha": {
+				"$png": "alpha4.png"
+			}
+		},
+		{
+			"bitmapid": 5,
+			"solid": {
+				"$png": "solid5.png"
+			},
+			"alpha": {
+				"$png": "alpha5.png"
+			}
+		},
+		{
+			"bitmapid": 6,
+			"solid": {
+				"$png": "solid6.png"
+			},
+			"alpha": {
+				"$png": "alpha6.png"
+			}
+		}
+	]
+}
